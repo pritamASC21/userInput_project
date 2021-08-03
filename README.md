@@ -14,3 +14,6 @@
 
 3. When the user tries multiple times, make sure only ONE message (#error OR #success) is displayed at a time
     - *Hint: try using display: "none"*
+
+4. Once the user clicks the submit button, make sure to reassign the username input, and the password input to an empty string: ""
+    
