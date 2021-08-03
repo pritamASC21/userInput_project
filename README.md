@@ -12,5 +12,5 @@
 
 - When the username and password do not match, the #error element will display as "block"
 
-3. When the user tries multiple times, make sure only ONE message (#error OR #success) is diplayed at a time
+3. When the user tries multiple times, make sure only ONE message (#error OR #success) is displayed at a time
     - *Hint: try using display: "none"*
